@@ -1,0 +1,6 @@
+
+all:
+
+install: all
+	cp set_pax_flags $DESTDIR/usr/sbin/set_pax_flags
+
